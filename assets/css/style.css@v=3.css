@@ -132,7 +132,7 @@ footer.footer {
   width: 160px;
   height: 90px;
   right: 31%;
-  top: 10px;
+  top: -30px;
   transform: translateX(42%);
   user-select: none;
   pointer-events: none;
